@@ -12,6 +12,7 @@ package ramasnetbeans;
 public class ClaseRamas1 {
     public void hola(){
         System.out.println("Esta es la rama B");
+        System.out.println("Esta es la rama F que sigue de la B");
         
     }
     
