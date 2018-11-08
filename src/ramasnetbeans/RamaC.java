@@ -9,13 +9,6 @@ package ramasnetbeans;
  *
  * @author Samuel
  */
-public class RamasNetbeans {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Rama A");
-    }
+public class RamaC {
     
 }
