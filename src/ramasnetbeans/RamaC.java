@@ -10,5 +10,7 @@ package ramasnetbeans;
  * @author Samuel
  */
 public class RamaC {
-    
+    private void hola(){
+        System.out.println("Rama D");
+    }
 }
